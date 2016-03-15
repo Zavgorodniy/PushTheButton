@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PushTheButton</string>
+    <string-array name="colors">
+        <item>red</item>
+        <item>green</item>
+        <item>black</item>
+        <item>yellow</item>
+        <item>purple</item>
+        <item>blue</item>
+    </string-array>
+</resources>
